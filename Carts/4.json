@@ -1,0 +1,48 @@
+[
+    {
+        "Cart": {
+            "email": "dev-challenge@tray.net.br",
+            "phone": "+5514991818766",
+            "variants_kit": "",
+            "additional_info_kit": "",
+            "price_itens_kit": "",
+            "session_id": "teh1jg167q6k50o2ejermke7u5",
+            "product_id": "164",
+            "product_name": "Mochila Targus preta com 3 compartimentos",
+            "quantity": "1",
+            "price": "349.00",
+            "weight": "1",
+            "date": "2023-09-10",
+            "variant_id": "0",
+            "additional_information": "",
+            "user_id": "0",
+            "customer_id": "0",
+            "user_cod": "0",
+            "hour": "23:43:54",
+            "bought_together_id": "0",
+            "product_url": {
+                "http": "http:\/\/ahsstore.commercesuite.com.br\/moda\/mochila-targus-preta-com-3-compartimentos",
+                "https": "https:\/\/ahsstore.commercesuite.com.br\/moda\/mochila-targus-preta-com-3-compartimentos"
+            },
+            "product_image": {
+                "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg",
+                "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg",
+                "thumbs": {
+                    "30": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg"
+                    },
+                    "90": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg"
+                    },
+                    "180": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_mochila_targus_preta_com_3_compartimentos_164_1_20201211122028.jpg"
+                    }
+                }
+            },
+            "kit_products": []
+        }
+    }
+]

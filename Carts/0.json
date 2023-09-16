@@ -1,0 +1,94 @@
+[
+    {
+        "Cart": {
+            "email": "dev-challenge@tray.net.br",
+            "phone": "+5514998166922",
+            "variants_kit": "",
+            "additional_info_kit": "",
+            "price_itens_kit": "",
+            "session_id": "4rashtk3sdquptms4md2q2h485",
+            "product_id": "417",
+            "product_name": "Bon\u00e9 Aba Curva adidas Bballcap LT Met - Strapback",
+            "quantity": "1",
+            "price": "150.00",
+            "weight": "200",
+            "date": "2023-09-10",
+            "variant_id": "0",
+            "additional_information": "",
+            "user_id": "0",
+            "customer_id": "0",
+            "user_cod": "0",
+            "hour": "23:41:50",
+            "bought_together_id": "0",
+            "product_url": {
+                "http": "http:\/\/ahsstore.commercesuite.com.br\/moda\/bones\/aberto\/bone-aba-curva-adidas-bballcap-lt-met-strapback",
+                "https": "https:\/\/ahsstore.commercesuite.com.br\/moda\/bones\/aberto\/bone-aba-curva-adidas-bballcap-lt-met-strapback"
+            },
+            "product_image": {
+                "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg",
+                "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg",
+                "thumbs": {
+                    "30": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg"
+                    },
+                    "90": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg"
+                    },
+                    "180": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_bone_aba_curva_adidas_bballcap_lt_met_strapback_417_1_20201211122029.jpg"
+                    }
+                }
+            },
+            "kit_products": []
+        }
+    },
+    {
+        "Cart": {
+            "email": "dev-challenge@tray.net.br",
+            "phone": "+5514998166922",
+            "variants_kit": "",
+            "additional_info_kit": "",
+            "price_itens_kit": "",
+            "session_id": "4rashtk3sdquptms4md2q2h485",
+            "product_id": "453",
+            "product_name": "Camiseta Nike sport preta",
+            "quantity": "1",
+            "price": "150.00",
+            "weight": "500",
+            "date": "2023-09-10",
+            "variant_id": "0",
+            "additional_information": "",
+            "user_id": "0",
+            "customer_id": "0",
+            "user_cod": "0",
+            "hour": "23:42:07",
+            "bought_together_id": "0",
+            "product_url": {
+                "http": "http:\/\/ahsstore.commercesuite.com.br\/moda\/roupas\/camiseta-nike-sport-preta",
+                "https": "https:\/\/ahsstore.commercesuite.com.br\/moda\/roupas\/camiseta-nike-sport-preta"
+            },
+            "product_image": {
+                "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg",
+                "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg",
+                "thumbs": {
+                    "30": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/30_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg"
+                    },
+                    "90": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/90_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg"
+                    },
+                    "180": {
+                        "http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg",
+                        "https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/348113\/180_camiseta_nike_sport_preta_453_1_e155ea0a8ed1da3bbcf19741a5dbba9b.jpg"
+                    }
+                }
+            },
+            "kit_products": []
+        }
+    }
+]
