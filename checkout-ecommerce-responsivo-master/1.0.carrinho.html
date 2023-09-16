@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+
+        <meta charset="utf-8">
+        
+        <title>Carrinho de Compras</title>
+
+        <link href='http://fonts.googleapis.com/css?family=OpenSans:300,400,700' rel='stylesheet' type='text/css'>
+        <link href="App_Themes/site/checkout.css" rel="stylesheet" type="text/css"/>
+        <link href="App_Themes/site/font.css" rel="stylesheet" type="text/css"/>
+        
+        <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery.checkout.js"></script>
+
+        <link rel="stylesheet" href="./App_Themes/site/popup.css">
+   </head>
+   
+<body>   
+	<section>
+        <div class="wrapper">
+        
+            <div class="checkout">
+            
+                <div class="titulo">
+                    <span class="fa fa-shopping-cart"></span>
+                    <h1>Meu Carrinho</h1>
+                </div><!--/titulo-->
+                
+                <div class="bt-continuar-comprando"><a href="#popup1"> < continuar comprando</a></div>
+                <div class="bt-concluir-compra"><a href="#">concluir compra > </a></div>
+                <div id="popup1" class="overlay">
+                  <div class="popup">
+                    <h2>EI! Não vá embora, ainda temos um cupom ESPECIAL! Esperando por você!</h2>
+                    <a class="close" href="#">&times;</a>
+                    <div class="content">
+                      Deem uma olhada em nossos produtos mais vendidos com base no seu Carrinho!! Não esqueça de usar nosso cupom especial claro!
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="sugestao">
+                
+                    <p>Produtos que você também pode gostar!</p>
+    
+                    <ul id="mycarousel" class="jcarousel-skin-tango">
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone1.jpg" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone2.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone3.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone4.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone5.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone6.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone7.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone14.jpg" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone9.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone10.jpg" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone11.png" width="80" height="80" /></li>
+                        <li><img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone13.jpg" width="80" height="80" /></li>
+                    </ul><!--/jcarousel-->
+                    
+                </div><!--/sugestao-->
+                
+                
+                <div class="carrinho">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="55%" class="header">Produto(s) no Meu Carrinho</td>
+                        <td width="15%" class="header">Quantidade</td>
+                        <td width="15%" class="header">Valor Unitário</td>
+                        <td width="15%" class="header">Valor Total</td>
+                      </tr>
+                      <tr >
+                        <td class="dados">
+                        	<div class="carrinho-imagem-produto">
+                        		<img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone12.jpg" width="80" height="80">
+                            </div><!--/carrinho-imagem-produto-->
+                            
+                            <div class="carrinho-descricao-produto">
+                               <p><strong>Boné porshe aba curva branco - Tamanho único</strong></p>
+                            	<p>Boné do modelo Porshe, edição exclusiva 2012 - cor branca</p> 
+							</div><!--/carrinho-descricao-produto-->
+                        </td>
+                        <td class="dados" align="center">
+                        	<div class="quantidade">
+                                <input name="" type="text" class="pp">
+                                <div class="controle-de-unidades">
+                                    <a href="#" class="fa fa-arrow-up"></a>
+                                    <a href="#" class="fa fa-arrow-down"></a>
+                                </div><!--/controle-de-unidades-->
+                            </div><!--/quantidade-->
+                            <div class="bt-excluir">
+                            	<a href="#">retirar do carrinho</a>
+                            </div><!--/excluir-->
+                        </td>
+                        <td class="dados" align="center">Valor Unitário</td>
+                        <td class="dados" align="center">R$ 79,90</td>
+                      </tr>
+                      <tr>
+                        <td class="dados">
+                        	<div class="carrinho-imagem-produto">
+                        		<img src="/checkout-ecommerce-responsivo-master/imagens/Sugestão/bone8.png" width="80" height="80">
+                            </div><!--/carrinho-imagem-produto-->
+                            
+                            <div class="carrinho-descricao-produto">
+                                <p><strong>Boné trasher aba reta cor preta - Tamanho único</strong></p>
+                            	<p>Boné estilo Stakista, edição padrão 2022 - cor preta</p>
+                            </div><!--/carrinho-descricao-produto-->
+                        
+                        </td>
+                        <td class="dados" align="center">
+                        	<div class="quantidade">
+                                <input name="" type="text" class="pp">
+                                <div class="controle-de-unidades">
+                                    <a href="#" class="fa fa-arrow-up"></a>
+                                    <a href="#" class="fa fa-arrow-down"></a>
+                                </div><!--/controle-de-unidades-->
+                            </div><!--/quantidade-->
+                            <div class="bt-excluir">
+                            	<a href="#">retirar do carrinho</a>
+                            </div><!--/excluir-->
+                        </td>
+                        <td class="dados" align="center">Valor Unitário</td>
+                        <td class="dados" align="center">R$ 124,90</td>
+                      </tr>
+                      <tr>
+                      	<td colspan="3" align="right" class="subtotal">SUBTOTAL</td>
+                        <td class="dados" align="center">R$ 204,80</td>
+                      </tr>
+                      <tr>
+                      	<td colspan="3" class="frete"> 
+                        	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="1%" align="center"></td>
+                                <td width="30%" align="left">Insira um CUPOM:</td>
+                                <td width="1%" align="left"><input name="" id="cep" type="text" class="p" ></td>
+                                <td width="1%"><div class="bt-ok"><a href="#">OK</a></div><!--/bt-ok--></td>
+                                <td width="10%" align="right">FRETE</td>
+                              </tr>
+                            </table>
+						</td>
+                        <td class="dados" align="center">R$ 29,90</td>
+                      </tr>
+                      <tr>
+                      	<td colspan="3" align="right">
+                        <table width="15%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="total">TOTAL</td>
+                          </tr>
+                        </table>
+						</td>
+                        <td align="center" class="total">R$ 234,70</td>
+                      </tr>
+ 					</table>
+
+                
+                </div><!--/carrinho-->
+                
+                <div class="bt-concluir-compra"><a href="#">CONCLUIR COMPRA</a></div>
+        
+            </div><!--/checkout-->
+            
+            
+         </div><!--/wrapper-->
+    </section>
+
+    
+</body>
+</html>
+
